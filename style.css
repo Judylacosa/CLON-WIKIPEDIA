@@ -1,0 +1,67 @@
+.header{
+margin-left: 120px;
+
+}
+
+.enlaces{
+    text-decoration: none;
+    margin: 10px;
+}
+.header-1{
+    margin-left: 550px;
+    margin-top: -90px;
+   
+   
+}
+.header-2{
+    margin-left: 550px;
+    margin-top: -20px;
+    text-align: end;
+}
+.input{
+    width: 350px;
+    height: 25px;
+}
+.input-1{
+    height: 28px;
+    width: 50px;
+}
+.nav-1{
+    text-decoration: none;
+    margin-left: 40px;
+    
+}
+.enlaces-2{
+    text-decoration: none;
+}
+.enlaces-3{
+    margin-left: 510px;
+    margin-top: -20px;
+}
+
+
+body{
+    background-color: rgb(225, 225, 247);
+}
+section{
+    border: solid rgb(184, 139, 139) ;
+padding: 30px;
+margin: 10px 40px 10px 40px;
+}
+article{
+    border: solid rgb(184, 139, 139);
+    height: 240px;
+    width: 550px;
+    padding: 30px;
+margin: 10px 40px 10px 40px;
+
+}
+aside{
+    border: solid rgb(184, 139, 139);
+    height: 240px;
+    width: 550px;
+    padding: 30px;
+margin: -315px 40px 10px 700px;
+
+
+}
